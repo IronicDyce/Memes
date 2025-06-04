@@ -1,13 +1,13 @@
 import React from "react";
 
 const siteConfig = {
-  siteName: "2 Fine Asses",
-  ctaText: "Buy $2FA",
-  headline: "2 Fine Asses 🍑",
-  description: "Buy and upgrade to $2FA because 1FA is too flat.\nHackers fear curves they can't bypass.",
+  siteName: "Degens Need Ass",
+  ctaText: "Buy $DNA",
+  headline: "Degens Need ASs 🍑",
+  description: "it's in our DNA",
   features: [
     {
-      title: "2FA",
+      title: "DNA",
       text: "Because everything deserves a double cheek check"
     },
     {
